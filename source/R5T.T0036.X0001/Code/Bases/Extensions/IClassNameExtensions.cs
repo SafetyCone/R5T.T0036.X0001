@@ -12,5 +12,10 @@ namespace System
         {
             return ClassNames.Documentation;
         }
+
+        public static string ServiceAggregation(this IClassName _)
+        {
+            return ClassNames.ServiceAggregation;
+        }
     }
 }
