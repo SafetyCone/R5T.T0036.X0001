@@ -13,6 +13,11 @@ namespace System
             return ClassNames.Documentation;
         }
 
+        public static string HostStartup(this IClassName _)
+        {
+            return ClassNames.HostStartup;
+        }
+
         public static string Instances(this IClassName _)
         {
             return ClassNames.Instances;
