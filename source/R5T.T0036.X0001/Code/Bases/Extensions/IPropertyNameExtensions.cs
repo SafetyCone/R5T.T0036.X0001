@@ -8,9 +8,5 @@ namespace System
 {
     public static class IPropertyNameExtensions
     {
-        public static string Instance(this IPropertyName _)
-        {
-            return PropertyNames.Instance;
-        }
     }
 }
