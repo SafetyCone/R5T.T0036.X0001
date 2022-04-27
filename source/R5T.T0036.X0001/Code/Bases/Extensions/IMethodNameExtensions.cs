@@ -10,17 +10,17 @@ namespace System
     {
         public static string FillFrom(this IMethodName _)
         {
-            return R5TMethodNames.FillFrom;
+            return MethodNames.FillFrom;
         }
 
         public static string New(this IMethodName _)
         {
-            return R5TMethodNames.New;
+            return MethodNames.New;
         }
 
         public static string Run(this IMethodName _)
         {
-            return R5TMethodNames.Run;
+            return MethodNames.Run;
         }
     }
 }

@@ -10,7 +10,7 @@ namespace System
     {
         public static string ServiceAction(this IVariableName _)
         {
-            return R5TVariableNames.ServiceAction;
+            return VariableNames.ServiceAction;
         }
     }
 }
