@@ -6,7 +6,7 @@ using R5T.T0036.X0001;
 
 namespace System
 {
-    [Obsolete("See R5T.Z0028.IMethodNames")]
+    [Obsolete("See R5T.Z0028.IParameterNames")]
     public static class IParameterNameExtensions
     {
         [Obsolete("See R5T.Z0028.IParameterNames._")]

@@ -6,7 +6,7 @@ using R5T.T0036.X0001;
 
 namespace System
 {
-    [Obsolete("See R5T.Z0028.IParameterNames")]
+    [Obsolete("See R5T.Z0028.IVariableNames")]
     public static class IVariableNameExtensions
     {
         [Obsolete("See R5T.Z0028.IVariableNames.ServiceAction")]
